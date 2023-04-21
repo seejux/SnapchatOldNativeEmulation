@@ -1,0 +1,19 @@
+{
+    "st_dev": 16,
+    "__st_ino": 34,
+    "st_mode": 33060,
+    "st_nlink": 1,
+    "st_uid": 0,
+    "st_gid": 0,
+    "st_rdev": 0,
+    "st_size": 4096,
+    "st_blksize": 4096,
+    "st_blocks": 0,
+    "st_atime": 93929848,
+    "st_atime_ns": 829999999,
+    "st_mtime": 93929848,
+    "st_mtime_ns": 829999999,
+    "st_ctime": 93929848,
+    "st_ctime_ns": 829999999,
+    "st_ino": 34
+}

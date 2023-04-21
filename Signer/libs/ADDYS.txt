@@ -1,0 +1,8 @@
+    emulator.call_native(0xCBCBC904 + 1)
+    for i in range(0, 22):
+        emulator.call_native(0xCBCFF248 + 1)
+    emulator.call_native(0xCBCA2490 + 1)
+    emulator.call_native(0xCBCA2C24 + 1)
+    emulator.call_native(0xCBCA3234 + 1)
+    emulator.call_native(0xCBCA285C + 1)
+    emulator.call_native(0xCBCA31FC + 1)

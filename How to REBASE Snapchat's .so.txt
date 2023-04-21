@@ -1,0 +1,1 @@
+run the emu it will say 0xC (might be diffrent on latest but its the first address in android native emu for libscplugin.so) or some BS open ida and rebase it simple as that
